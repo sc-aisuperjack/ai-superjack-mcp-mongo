@@ -1,0 +1,8 @@
+[project]
+name = "ai-superjack-mcp-mongo"
+version = "0.1.0"
+dependencies = [
+    "mcp",
+    "motor",
+    "python-dotenv",
+]
