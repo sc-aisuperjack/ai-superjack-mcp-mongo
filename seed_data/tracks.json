@@ -1,0 +1,83 @@
+[
+  {
+    "_id": "track_midnights_01",
+    "title": "Lavender Haze",
+    "artist_id": "artist_taylor_swift",
+    "album_id": "album_midnights",
+    "track_number": 1,
+    "duration": "3:22",
+    "explicit": false
+  },
+  {
+    "_id": "track_midnights_02",
+    "title": "Maroon",
+    "artist_id": "artist_taylor_swift",
+    "album_id": "album_midnights",
+    "track_number": 2,
+    "duration": "3:38",
+    "explicit": false
+  },
+  {
+    "_id": "track_midnights_03",
+    "title": "Anti-Hero",
+    "artist_id": "artist_taylor_swift",
+    "album_id": "album_midnights",
+    "track_number": 3,
+    "duration": "3:21",
+    "explicit": false
+  },
+  {
+    "_id": "track_future_nostalgia_01",
+    "title": "Future Nostalgia",
+    "artist_id": "artist_dua_lipa",
+    "album_id": "album_future_nostalgia",
+    "track_number": 1,
+    "duration": "3:05",
+    "explicit": false
+  },
+  {
+    "_id": "track_future_nostalgia_02",
+    "title": "Don't Start Now",
+    "artist_id": "artist_dua_lipa",
+    "album_id": "album_future_nostalgia",
+    "track_number": 2,
+    "duration": "3:03",
+    "explicit": false
+  },
+  {
+    "_id": "track_future_nostalgia_03",
+    "title": "Cool",
+    "artist_id": "artist_dua_lipa",
+    "album_id": "album_future_nostalgia",
+    "track_number": 3,
+    "duration": "3:30",
+    "explicit": false
+  },
+  {
+    "_id": "track_after_hours_01",
+    "title": "Alone Again",
+    "artist_id": "artist_the_weeknd",
+    "album_id": "album_after_hours",
+    "track_number": 1,
+    "duration": "4:10",
+    "explicit": false
+  },
+  {
+    "_id": "track_after_hours_02",
+    "title": "Too Late",
+    "artist_id": "artist_the_weeknd",
+    "album_id": "album_after_hours",
+    "track_number": 2,
+    "duration": "4:00",
+    "explicit": false
+  },
+  {
+    "_id": "track_after_hours_03",
+    "title": "Hardest to Love",
+    "artist_id": "artist_the_weeknd",
+    "album_id": "album_after_hours",
+    "track_number": 3,
+    "duration": "3:31",
+    "explicit": false
+  }
+]

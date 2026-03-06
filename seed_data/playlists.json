@@ -1,0 +1,28 @@
+[
+  {
+    "_id": "playlist_001",
+    "user_id": "user_001",
+    "name": "Late Night Pop",
+    "description": "A mix of real pop tracks for testing.",
+    "is_public": true,
+    "track_ids": [
+      "track_midnights_01",
+      "track_future_nostalgia_02",
+      "track_after_hours_01"
+    ],
+    "created_at": "2026-03-03T09:00:00Z"
+  },
+  {
+    "_id": "playlist_002",
+    "user_id": "user_002",
+    "name": "Study Vibes",
+    "description": "Chill and mainstream tracks for background listening.",
+    "is_public": false,
+    "track_ids": [
+      "track_midnights_03",
+      "track_future_nostalgia_03",
+      "track_after_hours_03"
+    ],
+    "created_at": "2026-03-04T11:15:00Z"
+  }
+]

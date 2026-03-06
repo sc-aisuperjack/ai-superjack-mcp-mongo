@@ -1,0 +1,30 @@
+[
+  {
+    "_id": "history_001",
+    "user_id": "user_001",
+    "track_id": "track_midnights_01",
+    "played_at": "2026-03-05T08:10:00Z",
+    "device": "mobile"
+  },
+  {
+    "_id": "history_002",
+    "user_id": "user_001",
+    "track_id": "track_after_hours_01",
+    "played_at": "2026-03-05T08:25:00Z",
+    "device": "web"
+  },
+  {
+    "_id": "history_003",
+    "user_id": "user_002",
+    "track_id": "track_future_nostalgia_02",
+    "played_at": "2026-03-05T09:00:00Z",
+    "device": "desktop"
+  },
+  {
+    "_id": "history_004",
+    "user_id": "user_002",
+    "track_id": "track_future_nostalgia_03",
+    "played_at": "2026-03-05T09:07:00Z",
+    "device": "mobile"
+  }
+]

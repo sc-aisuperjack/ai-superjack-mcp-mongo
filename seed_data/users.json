@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "user_001",
+    "username": "stefanos01",
+    "email": "stefanos01@example.com",
+    "country": "UK",
+    "subscription_type": "premium",
+    "created_at": "2026-03-01T10:00:00Z"
+  },
+  {
+    "_id": "user_002",
+    "username": "petar02",
+    "email": "petar02@example.com",
+    "country": "Netherlands",
+    "subscription_type": "free",
+    "created_at": "2026-03-02T14:30:00Z"
+  }
+]

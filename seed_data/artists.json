@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "artist_taylor_swift",
+    "name": "Taylor Swift",
+    "country": "United States",
+    "genres": ["Pop", "Synth-pop"],
+    "verified": true
+  },
+  {
+    "_id": "artist_dua_lipa",
+    "name": "Dua Lipa",
+    "country": "United Kingdom",
+    "genres": ["Pop", "Disco", "Dance-pop"],
+    "verified": true
+  },
+  {
+    "_id": "artist_the_weeknd",
+    "name": "The Weeknd",
+    "country": "Canada",
+    "genres": ["R&B", "Pop", "Synth-pop"],
+    "verified": true
+  }
+]

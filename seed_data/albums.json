@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "album_midnights",
+    "title": "Midnights",
+    "artist_id": "artist_taylor_swift",
+    "release_date": "2022-10-21",
+    "label": "Republic Records",
+    "genre": "Pop"
+  },
+  {
+    "_id": "album_future_nostalgia",
+    "title": "Future Nostalgia",
+    "artist_id": "artist_dua_lipa",
+    "release_date": "2020-03-27",
+    "label": "Warner Records",
+    "genre": "Pop"
+  },
+  {
+    "_id": "album_after_hours",
+    "title": "After Hours",
+    "artist_id": "artist_the_weeknd",
+    "release_date": "2020-03-20",
+    "label": "Republic Records",
+    "genre": "R&B"
+  }
+]
